@@ -1,0 +1,14 @@
+// базовые подключения
+@import "vars";
+@import "mixins";
+@import "fonts";
+@import "null";
+@import "global";
+
+// подключения компонентов страницы
+@import "./components/header";
+
+
+@import "./components/footer";
+
+
